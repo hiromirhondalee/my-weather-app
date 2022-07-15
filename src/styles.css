@@ -1,0 +1,75 @@
+h1 {
+  color: rgb(34, 34, 34);
+}
+
+h2 {
+  color: rgb(104, 102, 102);
+  margin-top: 5px;
+  font-size: 22px;
+}
+h3 {
+  color: grey;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+}
+
+.date-time {
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(42, 41, 41);
+}
+
+.temperature {
+  font-size: 100px;
+  padding: 0 auto;
+}
+
+.main-temp-icon {
+  font-size: 130px;
+  padding: 30px;
+  color: rgb(126, 121, 121);
+}
+
+.weatherUnits {
+  border: none;
+  background: none;
+  padding: 0px 10px;
+  font-size: 25px;
+  color: rgb(104, 102, 102);
+  text-decoration: none;
+}
+
+.daily-forecast-temp {
+  display: inline;
+  text-align: center;
+  padding: 30px;
+}
+
+.col-md-auto {
+  padding: 0cm;
+}
+
+.forecast-days {
+  font-size: 30px;
+  color: rgb(170, 160, 160);
+}
+
+.forecast-days-temp {
+  color: rgb(71, 69, 69);
+}
+
+.search-group {
+  padding: 10px;
+}
+
+.temp-toggle:hover {
+  color: black;
+}
+
+.current-city-button {
+  margin-left: 10px;
+}
