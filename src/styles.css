@@ -16,6 +16,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: purple;
+  font-size: 30px;
+}
+
 .date-time {
   text-align: center;
   padding: 10px;
@@ -72,4 +77,10 @@ a {
 
 .current-city-button {
   margin-left: 10px;
+}
+
+.footer-link {
+  display: block;
+  text-align: center;
+  padding-top: 25px;
 }
